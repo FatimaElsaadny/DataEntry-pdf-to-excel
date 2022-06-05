@@ -1,4 +1,4 @@
-# DataEntry-pdf-to-excel
+# DataExtraction-pdf-to-excel
 Python project to extract data from PDF to Excel sheet
 
 ### Project discription:
